@@ -1,0 +1,59 @@
+** Drc report for C:\Users\tomfr\Documents\GitHub\FE2401-INA381-Breakout\KiCad\INA381 Breakout.kicad_pcb **
+** Created on 2024-01-07 19:55:05 **
+
+** Found 13 DRC violations **
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(148.5900 mm, 89.6520 mm): Footprint kibuzzard-659961C4
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(148.5900 mm, 90.9220 mm): Footprint kibuzzard-6599620A
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(148.5900 mm, 92.1920 mm): Footprint kibuzzard-65996276
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(148.8440 mm, 88.3820 mm): Footprint kibuzzard-65996284
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(147.1930 mm, 86.7310 mm): Circle on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-0.4826 mm, -1.2700 mm): Polygon on B.Silkscreen
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(1.9050 mm, 1.2700 mm): Polygon on B.Mask
+    @(148.7170 mm, 86.7310 mm): Circle on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(1.9050 mm, 1.2700 mm): Polygon on B.Mask
+    @(148.7170 mm, 86.7310 mm): Circle on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(1.9050 mm, 1.2700 mm): Polygon on B.Mask
+    @(148.7170 mm, 86.7310 mm): Circle on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(149.2250 mm, 86.9850 mm): Circle on B.Mask
+    @(148.7170 mm, 86.7310 mm): Circle on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(1.9050 mm, 1.2700 mm): Polygon on B.Mask
+    @(148.7170 mm, 86.7310 mm): Circle on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(146.6850 mm, 84.4450 mm): Circle on B.Mask
+    @(147.1930 mm, 84.6990 mm): Circle on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(149.2250 mm, 84.4450 mm): Circle on B.Mask
+    @(148.7170 mm, 84.6990 mm): Circle on B.Cu
+
+** Found 0 unconnected pads **
+
+** Found 1 Footprint errors **
+[extra_footprint]: Extra footprint
+    Local override; Severity: warning
+    @(147.9550 mm, 85.7150 mm): Footprint REF**
+
+** End of Report **
