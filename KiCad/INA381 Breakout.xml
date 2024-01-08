@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\tomfr\Documents\GitHub\FE2401-INA381-Breakout\KiCad\INA381 Breakout.kicad_sch</source>
+    <date>07/01/2024 19:55:46</date>
+    <tool>Eeschema 7.0.9</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>INA381 Breakout</title>
+        <company>Fried Electronics</company>
+        <rev>V24.01.0.1</rev>
+        <date>2024-01-02</date>
+        <source>INA381 Breakout.kicad_sch</source>
+        <comment number="1" value="Tom Fry"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">885012206095</field>
+        <field name="Mouser Part Number">710-885012206095</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer Part Number" value="885012206095"/>
+      <property name="Mouser Part Number" value="710-885012206095"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93d0012b-6fe4-4f9a-a9ca-a0a6f82cc48c</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">885012206095</field>
+        <field name="Mouser Part Number">710-885012206095</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer Part Number" value="885012206095"/>
+      <property name="Mouser Part Number" value="710-885012206095"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdc1d9a7-650e-4f7a-b8da-7d5319b48843</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CL10B103KB8NNNL</field>
+        <field name="Mouser Part Number">187-CL10B103KB8NNNL</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer Part Number" value="CL10B103KB8NNNL"/>
+      <property name="Mouser Part Number" value="187-CL10B103KB8NNNL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ec4873b-14df-4e86-a046-90a68cecc5dd</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">885012206095</field>
+        <field name="Mouser Part Number">710-885012206095</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer Part Number" value="885012206095"/>
+      <property name="Mouser Part Number" value="710-885012206095"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>573717a6-3497-42a1-8888-13d26dc1b677</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">885012206095</field>
+        <field name="Mouser Part Number">710-885012206095</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer Part Number" value="885012206095"/>
+      <property name="Mouser Part Number" value="710-885012206095"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ff6651f-dadc-40e0-9945-42bbd617df1f</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CL10B105KB8NQNC</field>
+        <field name="Mouser Part Number">187-CL10B105KB8NQNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer Part Number" value="CL10B105KB8NQNC"/>
+      <property name="Mouser Part Number" value="187-CL10B105KB8NQNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>158724ad-7728-4a96-a029-f11bf038ffa3</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>BAT54S</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/ds11005.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer Part Number">BAT54S-7-F</field>
+        <field name="Mouser Part Number">621-BAT54S-F</field>
+      </fields>
+      <libsource lib="friedElectronicsSymbols" part="BAT54S" description="Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323"/>
+      <property name="Manufacturer Part Number" value="BAT54S-7-F"/>
+      <property name="Mouser Part Number" value="621-BAT54S-F"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="ki_description" value="Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323"/>
+      <property name="ki_keywords" value="schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ade1569-e19c-41c3-9dd8-9d611225ed8e</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x05</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">10129378-905001BLF</field>
+        <field name="Mouser Part Number">649-1012937890501BLF</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Manufacturer Part Number" value="10129378-905001BLF"/>
+      <property name="Mouser Part Number" value="649-1012937890501BLF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>030b9a52-cb0d-42d6-92a0-cab73091dc40</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x05</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">10129378-905001BLF</field>
+        <field name="Mouser Part Number">649-1012937890501BLF</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Manufacturer Part Number" value="10129378-905001BLF"/>
+      <property name="Mouser Part Number" value="649-1012937890501BLF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a61b8784-4955-4634-b0c8-0eb9dc940bc6</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">RN73R1JTTD1002B25</field>
+        <field name="Mouser Part Number">660-RN73R1JTD1002B25</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer Part Number" value="RN73R1JTTD1002B25"/>
+      <property name="Mouser Part Number" value="660-RN73R1JTD1002B25"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80590202-ccf7-4fb4-9046-3ddda950b9e4</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CRT0603-BY-10R0ELF</field>
+        <field name="Mouser Part Number">652-CRT0603BY10R0ELF</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer Part Number" value="CRT0603-BY-10R0ELF"/>
+      <property name="Mouser Part Number" value="652-CRT0603BY10R0ELF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a1d3238-b5bb-4397-8531-00b82f8a1f0e</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">RN73R1JTTD1000B25</field>
+        <field name="Mouser Part Number">660-RN73R1JTD1000B25</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer Part Number" value="RN73R1JTTD1000B25"/>
+      <property name="Mouser Part Number" value="660-RN73R1JTD1000B25"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fcaf595-0100-4e0a-a2a6-7f43093268fe</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">RC0603JR-070RL</field>
+        <field name="Mouser Part Number">603-RC0603JR-070RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer Part Number" value="RC0603JR-070RL"/>
+      <property name="Mouser Part Number" value="603-RC0603JR-070RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a16f4b53-92b0-455d-a290-0fad13d15529</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>0.020R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">MFL1206R0200FS</field>
+        <field name="Mouser Part Number">504-MFL1206R0200FS</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer Part Number" value="MFL1206R0200FS"/>
+      <property name="Mouser Part Number" value="504-MFL1206R0200FS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83c1140f-7c9d-4807-b373-a6c688259f4a</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">RC0603JR-070RL</field>
+        <field name="Mouser Part Number">603-RC0603JR-070RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer Part Number" value="RC0603JR-070RL"/>
+      <property name="Mouser Part Number" value="603-RC0603JR-070RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4685870b-8007-456c-9c53-7c464ca52d9d</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">RN73R1JTTD1002B25</field>
+        <field name="Mouser Part Number">660-RN73R1JTD1002B25</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer Part Number" value="RN73R1JTTD1002B25"/>
+      <property name="Mouser Part Number" value="660-RN73R1JTD1002B25"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>377755a1-0042-4d53-a435-d4deeadd7e8b</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">CRT0603-BY-10R0ELF</field>
+        <field name="Mouser Part Number">652-CRT0603BY10R0ELF</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer Part Number" value="CRT0603-BY-10R0ELF"/>
+      <property name="Mouser Part Number" value="652-CRT0603BY10R0ELF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44dc6110-598b-4c22-8211-926213608b2b</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">RC0603JR-070RL</field>
+        <field name="Mouser Part Number">603-RC0603JR-070RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer Part Number" value="RC0603JR-070RL"/>
+      <property name="Mouser Part Number" value="603-RC0603JR-070RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="dnp"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>698b379d-c6d2-4f12-81e0-50375a76fc77</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">RN73R1JTTD1002B25</field>
+        <field name="Mouser Part Number">660-RN73R1JTD1002B25</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer Part Number" value="RN73R1JTTD1002B25"/>
+      <property name="Mouser Part Number" value="660-RN73R1JTD1002B25"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f88891c-fc62-4ffb-baf3-f0d567b3e41d</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">RC0603JR-070RL</field>
+        <field name="Mouser Part Number">603-RC0603JR-070RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer Part Number" value="RC0603JR-070RL"/>
+      <property name="Mouser Part Number" value="603-RC0603JR-070RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de6c30c4-d147-4fee-9dfa-af25d529cbb6</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>INA381</value>
+      <footprint>Package_SO:VSSOP-10_3x3mm_P0.5mm</footprint>
+      <fields>
+        <field name="Manufacturer Part Number">INA381A2IDGSR</field>
+        <field name="Mouser Part Number">595-INA381A2IDGSR</field>
+      </fields>
+      <libsource lib="friedElectronicsSymbols" part="INA381" description=""/>
+      <property name="Manufacturer Part Number" value="INA381A2IDGSR"/>
+      <property name="Mouser Part Number" value="595-INA381A2IDGSR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="INA381 Breakout.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0cb99dcd-b5e6-4953-91b2-7c1cc2cec533</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x05">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="friedElectronicsSymbols" part="BAT54S">
+      <description>Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323</description>
+      <docs>https://www.diodes.com/assets/Datasheets/ds11005.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BAT54S</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/ds11005.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+        <pin num="3" name="COM" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="friedElectronicsSymbols" part="INA381">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">INA381</field>
+        <field name="Footprint">Package_SO:VSSOP-10_3x3mm_P0.5mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN+" type="input"/>
+        <pin num="2" name="VS+" type="power_in"/>
+        <pin num="3" name="~{ALERT}" type="output"/>
+        <pin num="4" name="RESET" type="input"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="NC" type="no_connect"/>
+        <pin num="7" name="CMPREF" type="input"/>
+        <pin num="8" name="CMPIN" type="input"/>
+        <pin num="9" name="VOUT" type="output"/>
+        <pin num="10" name="IN-" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="friedElectronicsSymbols">
+      <uri>C:/Users/tomfr/Documents/GitHub/FE-KiCad-Library/friedElectronicsSymbols.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/CMPIN">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="CMPIN" pintype="input"/>
+    </net>
+    <net code="2" name="/CMPREF">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="CMPREF" pintype="input"/>
+    </net>
+    <net code="3" name="/IN+">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="IN+" pintype="input"/>
+    </net>
+    <net code="4" name="/IN-">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="IN-" pintype="input"/>
+    </net>
+    <net code="5" name="/RES+">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="/RES-">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="/RESET">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="RESET" pintype="input"/>
+    </net>
+    <net code="8" name="/VOUT">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="VOUT" pintype="output"/>
+    </net>
+    <net code="9" name="/~{ALERT}">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="~{ALERT}" pintype="output"/>
+    </net>
+    <net code="10" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="11" name="Net-(D1-COM)">
+      <node ref="D1" pin="3" pinfunction="COM" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(J1-Pin_3)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="VDD">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VS+" pintype="power_in"/>
+    </net>
+    <net code="14" name="unconnected-(J2-Pin_3-Pad3)">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="15" name="unconnected-(U1-NC-Pad6)">
+      <node ref="U1" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
